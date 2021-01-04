@@ -4,9 +4,6 @@ Renders templates & assets for web or email usage.
 + Converts JSX HTML to Aviation.element function.
 
 
-Written by Devang Srivastava for Uncoded.
-
-
 Packages required:
 + fs (inbuilt)
 + glob
