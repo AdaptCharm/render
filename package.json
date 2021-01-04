@@ -1,7 +1,7 @@
 {
   "name": "@adaptcharm/render",
   "description": "Renders templates & assets for web or email usage.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": {
     "name": "Jamie Isaksen",
     "email": "jamie@jamie.no"
