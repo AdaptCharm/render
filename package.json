@@ -1,0 +1,37 @@
+{
+  "name": "@adaptcharm/render",
+  "description": "Renders templates & assets for web or email usage.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Jamie Isaksen",
+    "email": "jamie@jamie.no"
+  },
+  "license": "UNLICENSED",
+  "main": "render.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+      "url": "git@github.com:AdaptCharm/render.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0",
+    "autoprefixer": "^9.6.1",
+    "babel-preset-minify": "^0.5.0",
+    "csso": "^3.5.1",
+    "ejs": "^2.6.2",
+    "glob": "^7.1.4",
+    "handlebars": "^4.1.2",
+    "html-minifier": "^4.0.0",
+    "mime": "^2.4.4",
+    "postcss": "^7.0.17",
+    "regenerator-runtime": "^0.13.2",
+    "sass": "^1.22.2",
+    "terser": "^4.0.2"
+  }
+}
